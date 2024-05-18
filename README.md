@@ -5,3 +5,7 @@
 
 
 ![MKawan Desafio de Projeto - SCRUM](https://github.com/MKawan/completando-framework-scrum/assets/51447066/5fab3068-46e0-4725-b671-988ec43a9828)
+
+
+
+font: https://miro.com/app/board/uXjVKGfsdPY=/
